@@ -1,5 +1,5 @@
 
-SORU 1: FastAPI hangi programlama dili ile s kullanılır?
+SORU 1: FastAPI hangi programlama dili ile kullanılır?
 
 A) Java
 B) Python
@@ -107,4 +107,5 @@ CEVAP ANAHTARI:
 7: D
 8: A
 9: D
+
 10: B
