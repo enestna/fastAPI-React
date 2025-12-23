@@ -67,7 +67,7 @@ npm start
 
 ## Geliştiriciler
 
-Enes TUNA 
+Enes TUNA , 
 Yusuf İslam EROĞLU
 
 Bu proje, FastAPI ve React teknolojilerini kullanarak
