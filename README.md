@@ -22,6 +22,7 @@ ayrıştırılmış (decoupled) uygulama yapısını ve modern web geliştirme p
 -JavaScript
 
 ## Proje Yapısı
+```text
 fastAPI_React_full_stack/
 │
 ├── main.py          → FastAPI uygulaması
