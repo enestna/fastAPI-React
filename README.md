@@ -35,6 +35,7 @@ fastAPI_React_full_stack/
 ├── package.json     → Frontend bağımlılıkları
 │
 └── README.md
+```
 
 ## Backend Kurulum 
 Backend tarafı FastAPI kullanılarak geliştirilmiştir. Gerekli python paketleri aşağıdaki komut ile yüklenir.
