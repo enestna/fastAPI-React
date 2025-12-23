@@ -14,12 +14,12 @@ ayrıştırılmış (decoupled) uygulama yapısını ve modern web geliştirme p
 
 ## kullanılan Teknolojiler
 ### Backend
--Python 
--FastAPI
--SQLite
+- Python 
+- FastAPI
+- SQLite
 ### Frontend
--React
--JavaScript
+- React
+- JavaScript
 
 ## Proje Yapısı
 ```text
