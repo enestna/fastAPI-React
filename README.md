@@ -10,7 +10,7 @@ ayrıştırılmış (decoupled) uygulama yapısını ve modern web geliştirme p
 * ✅ ** Starlette ve Pydantic sayesinde çok yüksek performans.
 * ✅ ** Swagger UI ve ReDoc entegrasyonu.
 * ✅ ** JWT ile güvenli kimlik doğrulama
-* ✅ ** PostgreSQL veritabanı entegrasyonu
+* ✅ ** SQLite veritabanı entegrasyonu
 
 ## kullanılan Teknolojiler
 ### Backend
